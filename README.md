@@ -10,6 +10,9 @@ The objective is to prevent birds to pass through the side screen left at all.
 
 Click on those birds to knock them.
 
+## About the Project
+This is a practice made after checking some lessons at [Franks laboratory](https://twitter.com/code_laboratory) channel, awesome job there.
+
 ## Tools for Development
 
 Github  
